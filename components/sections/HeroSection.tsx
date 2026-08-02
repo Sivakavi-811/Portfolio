@@ -18,7 +18,7 @@ export function HeroSection() {
       <FadeIn delay={0} y={-20} className="w-full z-30">
         <nav className="flex justify-between items-center px-5 sm:px-8 md:px-10 pt-5 md:pt-8">
           <div className="text-base sm:text-lg md:text-xl lg:text-[1.4rem] font-medium uppercase tracking-wider">
-            SIVAKAVI
+            SIVAKAVI BALAKRISHNAN
           </div>
 
           {/* Desktop Navigation */}
