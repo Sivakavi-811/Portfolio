@@ -1,26 +1,168 @@
-# 3d-portfolio
+# 👋 Hi, I'm Sivakavi Balakrishnan
 
-This is a [Next.js](https://nextjs.org) project.
+<div align="center">
 
-## Getting Started
+### Final Year Computer Science Engineering Student | Full Stack Developer | AI Enthusiast
 
-First, run the development server:
+Building scalable web applications and AI-powered solutions that solve real-world problems.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+🌐 **Portfolio:** https://sivakavi.vercel.app  
+💻 **GitHub:**[](https://github.com/Sivakavi-811)  
+📧 **Email:** sivakavi0811@gmail.com
+💼 **LinkedIn:** [<your-linkedin>](https://www.linkedin.com/in/sivakavi-balakrishnan/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-## Learn More
+## 🚀 About Me
 
-To learn more, take a look at the following resources:
+I'm a passionate Computer Science Engineering student with a strong interest in **Artificial Intelligence, Full Stack Development, and Cloud Computing**. I enjoy building impactful software solutions, learning new technologies, and solving challenging problems.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🎓 Final Year B.E. Computer Science Engineering
+- 💡 Interested in AI, Machine Learning & Web Development
+- 🌱 Currently exploring Generative AI and Large Language Models
+- 🎯 Goal: Become a Software Engineer specializing in AI-powered applications
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- C
+- SQL
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+- MongoDB
+
+### AI / ML
+- TensorFlow
+- Scikit-learn
+- Hugging Face Transformers
+- T5
+- KeyBERT
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Streamlit
+- Netlify
+- Vercel
+
+---
+
+# 🚀 Featured Projects
+
+## 🩻 Radiology Report Generation using LLM
+
+An AI-powered medical imaging system that automatically generates radiology reports from chest X-rays using Frequency-Based Multi-Label Classification, Automatic Keyword Adaptation, and Text-to-Text Transformers.
+
+**Tech Stack**
+
+- Python
+- TensorFlow
+- ConvNeXt
+- T5
+- KeyBERT
+- Streamlit
+
+---
+
+## 🏠 Hostel Hub
+
+A complete hostel management platform that allows students to register complaints, manage rooms, and streamline hostel administration.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+## 🔧 Your Handyman
+
+A home service booking platform where users can schedule maintenance services including electricians, plumbers, painters, and more.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MySQL
+
+---
+
+# 📜 Certifications
+
+- Microsoft PL-300 Power BI Data Analyst
+- AI for Beginners – HP Foundation
+- IBM SkillsBuild AI
+- Cloud Computing Engineering (Azure & AWS)
+- Data Analysis using Microsoft Excel
+- Tata GenAI Data Analytics Job Simulation
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- Smart India Hackathon Finalist(College level)
+- Built AI-based Healthcare Project
+- Full Stack Web Developer
+- Certified in Cloud Computing and AI
+
+---
+
+# 📫 Connect With Me
+
+Portfolio : https://sivakavi.vercel.app
+
+GitHub : https://github.com/Sivakavi-811
+
+LinkedIn : https://linkedin.com/in/YOUR_LINKEDIN
+
+Email : YOUR_EMAIL
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my projects, consider giving them a ⭐
+
+</div>
