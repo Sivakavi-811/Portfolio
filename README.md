@@ -7,9 +7,9 @@
 Building scalable web applications and AI-powered solutions that solve real-world problems.
 
 🌐 **Portfolio:** https://sivakavi.vercel.app  
-💻 **GitHub:**[](https://github.com/Sivakavi-811)  
+💻 **GitHub:** https://github.com/Sivakavi-811
 📧 **Email:** sivakavi0811@gmail.com
-💼 **LinkedIn:** [<your-linkedin>](https://www.linkedin.com/in/sivakavi-balakrishnan/)
+💼 **LinkedIn:** https://www.linkedin.com/in/sivakavi-balakrishnan/
 
 </div>
 
