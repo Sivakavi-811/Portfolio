@@ -8,7 +8,7 @@ const navLinks = ['About', 'Certificates', 'Projects', 'Contact'];
 const socialLinks = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/sivakavi-balakrishnan/' },
   { label: 'Gmail', href: 'mailto:sivakavibalakrishnan@gmail.com' },
- // { label: 'Instagram', href: 'https://www.instagram.com/whiteyy_xx_/' },
+  { label: 'LeetCode', href:'https://leetcode.com/u/whiteyy_xx_/'},
   { label: 'Github', href: 'https://github.com/Sivakavi-811' },
 ];
 
@@ -78,7 +78,7 @@ export function FooterSection() {
             {/* Brand */}
             <div className="sm:col-span-2 md:col-span-1 flex flex-col gap-3 sm:gap-4">
               <p className="text-base sm:text-lg md:text-xl font-medium uppercase tracking-wider">
-                Sivakavi
+                Sivakavi Balakrishnan
               </p>
               <p className="font-light text-xs sm:text-sm leading-relaxed text-[#D7E2EA]/50 max-w-[240px]">
                 Software Developer building intelligent, scalable applications with AI and modern web technologies.
